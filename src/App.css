@@ -1,0 +1,19 @@
+:root {
+  --bodyBackground-color: #020617;
+  --secondary-color: #ff6f61;
+  --background-color: #ae7aff;
+  --backgroundHover-color: rgb(198, 173, 238);
+  --text-color: #ffffff;
+  --textHover-color: rgb(26, 31, 38);
+  --border-color: rgb(55, 65, 81);
+  --success-color: #28a745;
+  --error-color: #dc3545;
+  --popupBackground-color: rgb(18 18 18);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bodyBackground-color);
+  color: var(--text-color);
+  margin: 0;
+}
